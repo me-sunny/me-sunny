@@ -41,16 +41,24 @@ Check out my repositories below! ⬇
 ---
 
 ### 💬 *Get in Touch*:
-- 📧 Email: [starpiyush773@gmail.com](mailto:starpiyush773@gmail.com)
-- 💼 LinkedIn: [Sunny kumar sharma](www.linkedin.com/in/piyushkumar773)
-- 🌍 Portfolio: [My Personal Website](https://piyush-folio.netlify.app/)
+- 📧 Email: [sunnykumarsharma147@gmail.com](mailto:sunnykumarsharma147@gmail.com)
+- 💼 LinkedIn: [Sunny kumar sharma](www.linkedin.com/in/sunny-kumar-sharma-96a198208)
+- 🌍 Portfolio: [My Personal Website]()
+
+---
+
+Sure! Here's an updated version in the same format:
 
 ---
 
 ### 🏆 *Achievements*:
-- 🥉 Secured *3rd prize* in coding competitions during my BCA & MCA.
+- 🎯 Cracked *JEE Main* exam in *2020*.
+- 🏅 Cleared the *Physics Olympiad* at the *school level*.
 - 🚀 Built multiple full-stack projects to solve real-world problems.
 
+---
+
+You can add or adjust it to fit your style!
 ---
 
 ### 📊 *GitHub Stats*:
