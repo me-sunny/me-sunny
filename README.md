@@ -3,7 +3,7 @@
 
 - 🚀 An Enthusiastic Learner | Always avid to learn new skills every day.
 
-- 💬 Ask me about **Software Development, Python, DBMS, MySQL**
+- 💬 Ask me about **Software Development, Data Analytics, Python, DBMS, MySQL**
 
 
 
@@ -64,10 +64,10 @@
 </div>
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=keshavgangwar&show_icons=true&theme=dark&locale=en" alt="KeshavGangwar" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=keshavgangwar&show_icons=true&theme=dark&locale=en&layout=compact" alt="KeshavGangwar" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=me-sunny&show_icons=true&theme=dark&locale=en" alt="Sunny Kumar Sharma" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=me-sunny&show_icons=true&theme=dark&locale=en&layout=compact" alt="Sunny Kumar Sharma" /></td>
   </tr>
 </table>
 <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=keshavgangwar&theme=dark&border_radius=10&card_width=500" alt="KeshavGangwar" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=me-sunny&theme=dark&border_radius=10&card_width=500" alt="Sunny Kumar Shrama" /></p>
 </div>
