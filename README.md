@@ -1,4 +1,4 @@
-## 👋 Hey there, I'm *Piyush Kumar*!
+## 👋 Hey there, I'm *Sunny Kr. Sharma*!
 
 ### 🎓 MCA Student @ Chandigarh University | Full-stack Developer | Passionate Learner
 
@@ -42,7 +42,7 @@ Check out my repositories below! ⬇
 
 ### 💬 *Get in Touch*:
 - 📧 Email: [starpiyush773@gmail.com](mailto:starpiyush773@gmail.com)
-- 💼 LinkedIn: [Piyush Kumar](www.linkedin.com/in/piyushkumar773)
+- 💼 LinkedIn: [Sunny kumar sharma](www.linkedin.com/in/piyushkumar773)
 - 🌍 Portfolio: [My Personal Website](https://piyush-folio.netlify.app/)
 
 ---
@@ -55,9 +55,9 @@ Check out my repositories below! ⬇
 
 ### 📊 *GitHub Stats*:
 
-![piyush-773's Stats](https://github-readme-stats.vercel.app/api?username=piyush-773&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![piyush-773's Streak](https://github-readme-streak-stats.herokuapp.com/?user=piyush-773&theme=vue-dark&hide_border=true)
-![piyush-773's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=piyush-773&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![me-sunny's Stats](https://github-readme-stats.vercel.app/api?username=me-sunny&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![me-sunny's Streak](https://github-readme-streak-stats.herokuapp.com/?user=me-sunny&theme=vue-dark&hide_border=true)
+![me-sunny's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=me-sunny&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 ---
 
 Feel free to fork, star 🌟, or clone my repositories. Let's build something amazing together!
