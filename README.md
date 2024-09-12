@@ -1,19 +1,20 @@
-<h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/keshavgangwar/" target="_blank"> Keshav Gangwar </a></h1>
+<h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/sunny-kumar-sharma-96a198208/" target="_blank"> Sunny Kumar Sharma </a></h1>
 <h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com/?color=0357F7&lines=Software+Development+Engineer+%3A)" /> </h3>
 
 - 🚀 An Enthusiastic Learner | Always avid to learn new skills every day.
 
 - 💬 Ask me about **Software Development, Python, DBMS, MySQL**
 
-- 👨‍💻 Check out my personal portfolio : **<a href="https://keshavcodes.netlify.app/" target="_blank">Portfolio</a>**
+
 
 - 😄 Pronouns: He/His
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
-  <a href="https://www.linkedin.com/in/keshavgangwar/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:gangwarkeshav3@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-   <a href="https://www.instagram.com/me.keshavgangwar/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/sunny-kumar-sharma-96a198208/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:sunnykumarsharma147@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://x.com/SunnySh51364186"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+
 </div>
 
 <h3 align="left">Tech Stack :</h3>
